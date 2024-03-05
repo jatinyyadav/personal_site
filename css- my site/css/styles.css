@@ -27,6 +27,9 @@ h3{
     position: relative;
     background-color: #e4f9f5;
     padding-bottom: 200px;
+    margin: auto 0;
+    
+
 }
 .pro{
     text-decoration: underline;
@@ -36,6 +39,10 @@ h3{
     left: 300px;
     bottom: 450px;
 }
+.middle-container {
+    margin: 100px 0;
+    margin-top: 0;
+  }
 
 .top-cloud{
     position: absolute;
@@ -46,16 +53,16 @@ h3{
     position: relative;
     top: 50px;
 }
-.skill-row{
+.skill-row {
     width: 50%;
-    margin: 30px auto 80px auto;
+    margin: 100px auto 100px auto;
     text-align: left;
-}
+  }
 .profile{
     padding: 50px 300px 50px 300px;
     line-height: 2;
     background-color: #37B5B6;
-    width: 60%;
+    width: auto;
     
 }
 .C-language{
